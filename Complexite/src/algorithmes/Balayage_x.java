@@ -8,7 +8,7 @@ import maths.Calculateur;
 
 
 /*****************************************
- * ALGORITHME BALAYAGE_X
+ * ALGORITHME BALAYAGE_X test
  ****************************************/
 public class Balayage_x {
 
